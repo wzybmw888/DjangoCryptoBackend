@@ -1,0 +1,1242 @@
+[2023-05-23 17:30:43,422][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:30:43,422][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:31:27,944][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\settings.py changed, reloading.
+[2023-05-23 17:31:27,944][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\settings.py changed, reloading.
+[2023-05-23 17:31:28,818][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:31:28,818][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:33:09,422][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:33:09,422][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:34:37,441][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:34:37,441][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:35:26,840][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:35:26,840][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:35:31,335][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:35:31,335][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:35:32,894][django.server.log_message():212] [INFO] "GET / HTTP/1.1" 200 10667
+[2023-05-23 17:35:32,894][django.server.log_message():212] [INFO] "GET / HTTP/1.1" 200 10667
+[2023-05-23 17:35:32,916][django.server.log_message():212] [WARNING] "GET /static/admin/css/fonts.css HTTP/1.1" 404 1817
+[2023-05-23 17:35:32,916][django.server.log_message():212] [WARNING] "GET /static/admin/css/fonts.css HTTP/1.1" 404 1817
+[2023-05-23 17:35:33,987][django.request.log_response():241] [WARNING] Not Found: /favicon.ico
+[2023-05-23 17:35:33,987][django.request.log_response():241] [WARNING] Not Found: /favicon.ico
+[2023-05-23 17:35:33,988][django.server.log_message():212] [WARNING] "GET /favicon.ico HTTP/1.1" 404 2116
+[2023-05-23 17:35:33,988][django.server.log_message():212] [WARNING] "GET /favicon.ico HTTP/1.1" 404 2116
+[2023-05-23 17:35:36,744][django.server.log_message():212] [INFO] "GET /admin HTTP/1.1" 301 0
+[2023-05-23 17:35:36,744][django.server.log_message():212] [INFO] "GET /admin HTTP/1.1" 301 0
+[2023-05-23 17:35:36,766][django.server.log_message():212] [INFO] "GET /admin/ HTTP/1.1" 302 0
+[2023-05-23 17:35:36,766][django.server.log_message():212] [INFO] "GET /admin/ HTTP/1.1" 302 0
+[2023-05-23 17:35:36,775][django.server.log_message():212] [INFO] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4029
+[2023-05-23 17:35:36,775][django.server.log_message():212] [INFO] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4029
+[2023-05-23 17:35:36,813][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 200 238628
+[2023-05-23 17:35:36,813][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/elementui/theme-chalk/index.css HTTP/1.1" 200 238628
+[2023-05-23 17:35:36,815][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 200 101784
+[2023-05-23 17:35:36,815][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/css/all.min.css HTTP/1.1" 200 101784
+[2023-05-23 17:35:36,819][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/css/login.css?_=2.1 HTTP/1.1" 200 500
+[2023-05-23 17:35:36,819][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/css/login.css?_=2.1 HTTP/1.1" 200 500
+[2023-05-23 17:35:37,046][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 200 115997
+[2023-05-23 17:35:37,046][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/img/logo.png HTTP/1.1" 200 115997
+[2023-05-23 17:35:37,094][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/img/bg.svg HTTP/1.1" 200 9547
+[2023-05-23 17:35:37,094][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/img/bg.svg HTTP/1.1" 200 9547
+[2023-05-23 17:35:37,095][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.03.01 HTTP/1.1" 200 93675
+[2023-05-23 17:35:37,095][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/vue.min.js?_=2023.03.01 HTTP/1.1" 200 93675
+[2023-05-23 17:35:37,097][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/login.js?_=3.3 HTTP/1.1" 200 669
+[2023-05-23 17:35:37,097][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/login.js?_=3.3 HTTP/1.1" 200 669
+[2023-05-23 17:35:37,099][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/particles/particles.js HTTP/1.1" 200 51264
+[2023-05-23 17:35:37,099][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/particles/particles.js HTTP/1.1" 200 51264
+[2023-05-23 17:35:37,101][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/particles/app.js HTTP/1.1" 200 3728
+[2023-05-23 17:35:37,101][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/particles/app.js HTTP/1.1" 200 3728
+[2023-05-23 17:35:37,101][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/elementui/index.js?_=2023.03.01 HTTP/1.1" 200 586253
+[2023-05-23 17:35:37,101][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/elementui/index.js?_=2023.03.01 HTTP/1.1" 200 586253
+[2023-05-23 17:35:37,236][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 150472
+[2023-05-23 17:35:37,236][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 150472
+[2023-05-23 17:35:39,216][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 200 28200
+[2023-05-23 17:35:39,216][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/elementui/theme-chalk/fonts/element-icons.woff HTTP/1.1" 200 28200
+[2023-05-23 17:35:40,887][django.server.log_message():212] [INFO] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4275
+[2023-05-23 17:35:40,887][django.server.log_message():212] [INFO] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 4275
+[2023-05-23 17:36:43,263][django.server.log_message():212] [INFO] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2023-05-23 17:36:43,263][django.server.log_message():212] [INFO] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[2023-05-23 17:36:43,284][django.server.log_message():212] [INFO] "GET /admin/ HTTP/1.1" 200 21396
+[2023-05-23 17:36:43,284][django.server.log_message():212] [INFO] "GET /admin/ HTTP/1.1" 200 21396
+[2023-05-23 17:36:43,299][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 200 6994
+[2023-05-23 17:36:43,299][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 200 3861
+[2023-05-23 17:36:43,299][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/css/index.css?_=3.2 HTTP/1.1" 200 6994
+[2023-05-23 17:36:43,299][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/waves/waves.min.css?_=2.1 HTTP/1.1" 200 3861
+[2023-05-23 17:36:43,645][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/locale/en-us.js?_=2023.03.01 HTTP/1.1" 200 811
+[2023-05-23 17:36:43,646][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/automatic/segment.js?_=2023.03.01 HTTP/1.1" 200 1194
+[2023-05-23 17:36:43,646][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/automatic/dicts.js?_=2023.03.01 HTTP/1.1" 200 12677
+[2023-05-23 17:36:43,645][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/locale/en-us.js?_=2023.03.01 HTTP/1.1" 200 811
+[2023-05-23 17:36:43,646][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/automatic/segment.js?_=2023.03.01 HTTP/1.1" 200 1194
+[2023-05-23 17:36:43,646][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/automatic/dicts.js?_=2023.03.01 HTTP/1.1" 200 12677
+[2023-05-23 17:36:43,649][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2023.03.01 HTTP/1.1" 200 1254
+[2023-05-23 17:36:43,650][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/cookie.js?_=2023.03.01 HTTP/1.1" 200 524
+[2023-05-23 17:36:43,649][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/locale/zh-hans.js?_=2023.03.01 HTTP/1.1" 200 1254
+[2023-05-23 17:36:43,650][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/theme/theme.js?_=2023.03.01 HTTP/1.1" 200 4274
+[2023-05-23 17:36:43,650][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/cookie.js?_=2023.03.01 HTTP/1.1" 200 524
+[2023-05-23 17:36:43,650][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/theme/theme.js?_=2023.03.01 HTTP/1.1" 200 4274
+[2023-05-23 17:36:43,653][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/waves/waves.min.js?_=2023.03.01 HTTP/1.1" 200 6329
+[2023-05-23 17:36:43,653][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/waves/waves.min.js?_=2023.03.01 HTTP/1.1" 200 6329
+[2023-05-23 17:36:43,653][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/menu.js?_=2023.03.01 HTTP/1.1" 200 1216
+[2023-05-23 17:36:43,653][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/menu.js?_=2023.03.01 HTTP/1.1" 200 1216
+[2023-05-23 17:36:43,654][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/index.js?_=2023.03.01 HTTP/1.1" 200 21460
+[2023-05-23 17:36:43,654][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/index.js?_=2023.03.01 HTTP/1.1" 200 21460
+[2023-05-23 17:36:43,913][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 25096
+[2023-05-23 17:36:43,914][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 107460
+[2023-05-23 17:36:43,913][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 25096
+[2023-05-23 17:36:43,914][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/fontawesome-free-6.2.0-web/webfonts/fa-brands-400.woff2 HTTP/1.1" 200 107460
+[2023-05-23 17:36:49,587][django.server.log_message():212] [INFO] "GET /admin/auth/group/ HTTP/1.1" 200 28721
+[2023-05-23 17:36:49,587][django.server.log_message():212] [INFO] "GET /admin/auth/group/ HTTP/1.1" 200 28721
+[2023-05-23 17:36:49,599][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 200 4160
+[2023-05-23 17:36:49,599][django.server.log_message():212] [INFO] "GET /static/admin/css/changelists.css?_=20180905 HTTP/1.1" 200 6584
+[2023-05-23 17:36:49,599][django.server.log_message():212] [INFO] "GET /static/admin/css/responsive.css?_=20180905 HTTP/1.1" 200 18533
+[2023-05-23 17:36:49,599][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 200 4270
+[2023-05-23 17:36:49,599][django.server.log_message():212] [INFO] "GET /static/admin/css/base.css?_=2.7 HTTP/1.1" 200 21207
+[2023-05-23 17:36:49,599][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 200 189
+[2023-05-23 17:36:49,599][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/css/base.css?_=2.7 HTTP/1.1" 200 4160
+[2023-05-23 17:36:49,599][django.server.log_message():212] [INFO] "GET /static/admin/css/changelists.css?_=20180905 HTTP/1.1" 200 6584
+[2023-05-23 17:36:49,599][django.server.log_message():212] [INFO] "GET /static/admin/css/responsive.css?_=20180905 HTTP/1.1" 200 18533
+[2023-05-23 17:36:49,599][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/theme/simpleui.css HTTP/1.1" 200 4270
+[2023-05-23 17:36:49,599][django.server.log_message():212] [INFO] "GET /static/admin/css/base.css?_=2.7 HTTP/1.1" 200 21207
+[2023-05-23 17:36:49,599][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/language.js?_=2.1.2 HTTP/1.1" 200 189
+[2023-05-23 17:36:49,606][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 200 811
+[2023-05-23 17:36:49,607][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 200 524
+[2023-05-23 17:36:49,606][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/locale/en-us.js?_=2.1.2 HTTP/1.1" 200 811
+[2023-05-23 17:36:49,607][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/cookie.js HTTP/1.1" 200 524
+[2023-05-23 17:36:49,610][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 200 1254
+[2023-05-23 17:36:49,611][django.server.log_message():212] [INFO] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[2023-05-23 17:36:49,611][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:36:49,610][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/locale/zh-hans.js HTTP/1.1" 200 1254
+[2023-05-23 17:36:49,611][django.server.log_message():212] [INFO] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[2023-05-23 17:36:49,611][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:36:49,613][django.server.log_message():212] [INFO] "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+[2023-05-23 17:36:49,614][django.server.log_message():212] [INFO] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+[2023-05-23 17:36:49,613][django.server.log_message():212] [INFO] "GET /static/admin/js/core.js HTTP/1.1" 200 5682
+[2023-05-23 17:36:49,614][django.server.log_message():212] [INFO] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+[2023-05-23 17:36:49,617][django.server.log_message():212] [INFO] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[2023-05-23 17:36:49,618][django.server.log_message():212] [INFO] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+[2023-05-23 17:36:49,618][django.server.log_message():212] [INFO] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[2023-05-23 17:36:49,617][django.server.log_message():212] [INFO] "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+[2023-05-23 17:36:49,618][django.server.log_message():212] [INFO] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+[2023-05-23 17:36:49,618][django.server.log_message():212] [INFO] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[2023-05-23 17:36:49,623][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 200 1194
+[2023-05-23 17:36:49,624][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 200 12677
+[2023-05-23 17:36:49,623][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/automatic/segment.js HTTP/1.1" 200 1194
+[2023-05-23 17:36:49,624][django.server.log_message():212] [INFO] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+[2023-05-23 17:36:49,624][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/automatic/dicts.js HTTP/1.1" 200 12677
+[2023-05-23 17:36:49,625][django.server.log_message():212] [INFO] "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 200 89795
+[2023-05-23 17:36:49,625][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 200 14237
+[2023-05-23 17:36:49,624][django.server.log_message():212] [INFO] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+[2023-05-23 17:36:49,625][django.server.log_message():212] [INFO] "GET /static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 200 89795
+[2023-05-23 17:36:49,625][django.server.log_message():212] [INFO] "GET /static/admin/simpleui-x/js/axios.min.js HTTP/1.1" 200 14237
+[2023-05-23 17:36:49,627][django.server.log_message():212] [INFO] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[2023-05-23 17:36:49,627][django.server.log_message():212] [INFO] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[2023-05-23 17:36:52,242][django.server.log_message():212] [INFO] "GET /admin/django_celery_beat/periodictask/ HTTP/1.1" 200 44744
+[2023-05-23 17:36:52,242][django.server.log_message():212] [INFO] "GET /admin/django_celery_beat/periodictask/ HTTP/1.1" 200 44744
+[2023-05-23 17:36:52,282][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:36:52,282][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:36:53,411][django.server.log_message():212] [INFO] "GET /admin/django_celery_beat/clockedschedule/ HTTP/1.1" 200 25209
+[2023-05-23 17:36:53,411][django.server.log_message():212] [INFO] "GET /admin/django_celery_beat/clockedschedule/ HTTP/1.1" 200 25209
+[2023-05-23 17:36:53,461][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:36:53,461][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:36:53,793][django.server.log_message():212] [INFO] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[2023-05-23 17:36:53,793][django.server.log_message():212] [INFO] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[2023-05-23 17:36:55,074][django.server.log_message():212] [INFO] "GET /admin/django_celery_beat/solarschedule/ HTTP/1.1" 200 24688
+[2023-05-23 17:36:55,074][django.server.log_message():212] [INFO] "GET /admin/django_celery_beat/solarschedule/ HTTP/1.1" 200 24688
+[2023-05-23 17:36:55,139][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:36:55,139][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:36:57,899][django.server.log_message():212] [INFO] "GET /admin/mysystem/post/ HTTP/1.1" 200 24641
+[2023-05-23 17:36:57,899][django.server.log_message():212] [INFO] "GET /admin/mysystem/post/ HTTP/1.1" 200 24641
+[2023-05-23 17:36:57,974][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:36:57,974][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:36:59,682][django.server.log_message():212] [INFO] "GET /admin/mysystem/post/add/ HTTP/1.1" 200 14433
+[2023-05-23 17:36:59,682][django.server.log_message():212] [INFO] "GET /admin/mysystem/post/add/ HTTP/1.1" 200 14433
+[2023-05-23 17:36:59,703][django.server.log_message():212] [INFO] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[2023-05-23 17:36:59,703][django.server.log_message():212] [INFO] "GET /static/admin/css/forms.css HTTP/1.1" 200 8953
+[2023-05-23 17:36:59,703][django.server.log_message():212] [INFO] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+[2023-05-23 17:36:59,703][django.server.log_message():212] [INFO] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[2023-05-23 17:36:59,703][django.server.log_message():212] [INFO] "GET /static/admin/css/forms.css HTTP/1.1" 200 8953
+[2023-05-23 17:36:59,703][django.server.log_message():212] [INFO] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+[2023-05-23 17:36:59,705][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:36:59,705][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:37:00,002][django.server.log_message():212] [INFO] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+[2023-05-23 17:37:00,002][django.server.log_message():212] [INFO] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11900
+[2023-05-23 17:37:06,836][django.server.log_message():212] [INFO] "GET /admin/mysystem/loginlog/ HTTP/1.1" 200 24658
+[2023-05-23 17:37:06,836][django.server.log_message():212] [INFO] "GET /admin/mysystem/loginlog/ HTTP/1.1" 200 24658
+[2023-05-23 17:37:06,959][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:37:06,959][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:37:09,982][django.server.log_message():212] [INFO] "GET /admin/mysystem/button/ HTTP/1.1" 200 24663
+[2023-05-23 17:37:09,982][django.server.log_message():212] [INFO] "GET /admin/mysystem/button/ HTTP/1.1" 200 24663
+[2023-05-23 17:37:10,066][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:37:10,066][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:37:12,447][django.server.log_message():212] [INFO] "GET /admin/mysystem/menu/ HTTP/1.1" 200 24641
+[2023-05-23 17:37:12,447][django.server.log_message():212] [INFO] "GET /admin/mysystem/menu/ HTTP/1.1" 200 24641
+[2023-05-23 17:37:12,552][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:37:12,552][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:37:17,421][django.server.log_message():212] [INFO] "GET /admin/mysystem/menu/add/ HTTP/1.1" 200 20113
+[2023-05-23 17:37:17,421][django.server.log_message():212] [INFO] "GET /admin/mysystem/menu/add/ HTTP/1.1" 200 20113
+[2023-05-23 17:37:17,443][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:37:17,443][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:37:17,733][django.server.log_message():212] [INFO] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[2023-05-23 17:37:17,733][django.server.log_message():212] [INFO] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[2023-05-23 17:37:17,825][django.server.log_message():212] [INFO] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[2023-05-23 17:37:17,825][django.server.log_message():212] [INFO] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[2023-05-23 17:37:17,829][django.server.log_message():212] [INFO] "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+[2023-05-23 17:37:17,829][django.server.log_message():212] [INFO] "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+[2023-05-23 17:37:39,386][django.server.log_message():212] [INFO] "GET /admin/django_celery_results/groupresult/ HTTP/1.1" 200 32888
+[2023-05-23 17:37:39,386][django.server.log_message():212] [INFO] "GET /admin/django_celery_results/groupresult/ HTTP/1.1" 200 32888
+[2023-05-23 17:37:39,460][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:37:39,460][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:41:22,802][django.server.log_message():212] [INFO] "GET /admin/mysystem/menu/ HTTP/1.1" 200 24641
+[2023-05-23 17:41:22,802][django.server.log_message():212] [INFO] "GET /admin/mysystem/menu/ HTTP/1.1" 200 24641
+[2023-05-23 17:41:22,818][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:41:22,818][django.server.log_message():212] [INFO] "GET /admin/jsi18n/ HTTP/1.1" 200 8560
+[2023-05-23 17:43:38,033][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-23 17:43:38,033][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-23 17:43:38,948][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:43:38,948][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:44:29,000][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\settings.py changed, reloading.
+[2023-05-23 17:44:29,000][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\settings.py changed, reloading.
+[2023-05-23 17:44:30,035][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:44:30,035][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:44:53,984][django.request.log_response():241] [WARNING] Not Found: /
+[2023-05-23 17:44:53,984][django.request.log_response():241] [WARNING] Not Found: /
+[2023-05-23 17:44:53,985][django.server.log_message():212] [WARNING] "GET / HTTP/1.1" 404 2192
+[2023-05-23 17:44:53,985][django.server.log_message():212] [WARNING] "GET / HTTP/1.1" 404 2192
+[2023-05-23 17:45:01,184][django.server.log_message():212] [INFO] "GET /redoc HTTP/1.1" 301 0
+[2023-05-23 17:45:01,184][django.server.log_message():212] [INFO] "GET /redoc HTTP/1.1" 301 0
+[2023-05-23 17:45:01,222][django.request.log_response():241] [ERROR] Internal Server Error: /redoc/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'rest_framework'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 78, in render
+    self.set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 171, in set_context
+    super(ReDocRenderer, self).set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 86, in set_context
+    renderer_context.update(self.get_auth_urls())
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 109, in get_auth_urls
+    'LOGIN_URL': self.resolve_url(swagger_settings.LOGIN_URL),
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 105, in resolve_url
+    return resolve_url(to, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'rest_framework' is not a registered namespace
+[2023-05-23 17:45:01,222][django.request.log_response():241] [ERROR] Internal Server Error: /redoc/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'rest_framework'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 78, in render
+    self.set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 171, in set_context
+    super(ReDocRenderer, self).set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 86, in set_context
+    renderer_context.update(self.get_auth_urls())
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 109, in get_auth_urls
+    'LOGIN_URL': self.resolve_url(swagger_settings.LOGIN_URL),
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 105, in resolve_url
+    return resolve_url(to, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'rest_framework' is not a registered namespace
+[2023-05-23 17:45:01,226][django.server.log_message():212] [ERROR] "GET /redoc/ HTTP/1.1" 500 134145
+[2023-05-23 17:45:01,226][django.server.log_message():212] [ERROR] "GET /redoc/ HTTP/1.1" 500 134145
+[2023-05-23 17:46:20,779][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:46:20,779][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:46:22,706][django.request.log_response():241] [WARNING] Not Found: /
+[2023-05-23 17:46:22,706][django.request.log_response():241] [WARNING] Not Found: /
+[2023-05-23 17:46:22,706][django.server.log_message():212] [WARNING] "GET / HTTP/1.1" 404 2192
+[2023-05-23 17:46:22,706][django.server.log_message():212] [WARNING] "GET / HTTP/1.1" 404 2192
+[2023-05-23 17:46:25,277][django.request.log_response():241] [ERROR] Internal Server Error: /redoc/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'rest_framework'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 78, in render
+    self.set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 171, in set_context
+    super(ReDocRenderer, self).set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 86, in set_context
+    renderer_context.update(self.get_auth_urls())
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 109, in get_auth_urls
+    'LOGIN_URL': self.resolve_url(swagger_settings.LOGIN_URL),
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 105, in resolve_url
+    return resolve_url(to, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'rest_framework' is not a registered namespace
+[2023-05-23 17:46:25,277][django.request.log_response():241] [ERROR] Internal Server Error: /redoc/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'rest_framework'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 78, in render
+    self.set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 171, in set_context
+    super(ReDocRenderer, self).set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 86, in set_context
+    renderer_context.update(self.get_auth_urls())
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 109, in get_auth_urls
+    'LOGIN_URL': self.resolve_url(swagger_settings.LOGIN_URL),
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 105, in resolve_url
+    return resolve_url(to, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'rest_framework' is not a registered namespace
+[2023-05-23 17:46:25,281][django.server.log_message():212] [ERROR] "GET /redoc/ HTTP/1.1" 500 134282
+[2023-05-23 17:46:25,281][django.server.log_message():212] [ERROR] "GET /redoc/ HTTP/1.1" 500 134282
+[2023-05-23 17:46:59,565][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-23 17:46:59,565][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-23 17:47:00,446][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:47:00,446][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:47:06,663][django.request.log_response():241] [ERROR] Internal Server Error: /redoc/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'rest_framework'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 78, in render
+    self.set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 171, in set_context
+    super(ReDocRenderer, self).set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 86, in set_context
+    renderer_context.update(self.get_auth_urls())
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 109, in get_auth_urls
+    'LOGIN_URL': self.resolve_url(swagger_settings.LOGIN_URL),
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 105, in resolve_url
+    return resolve_url(to, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'rest_framework' is not a registered namespace
+[2023-05-23 17:47:06,663][django.request.log_response():241] [ERROR] Internal Server Error: /redoc/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'rest_framework'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 78, in render
+    self.set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 171, in set_context
+    super(ReDocRenderer, self).set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 86, in set_context
+    renderer_context.update(self.get_auth_urls())
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 109, in get_auth_urls
+    'LOGIN_URL': self.resolve_url(swagger_settings.LOGIN_URL),
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 105, in resolve_url
+    return resolve_url(to, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'rest_framework' is not a registered namespace
+[2023-05-23 17:47:06,666][django.server.log_message():212] [ERROR] "GET /redoc/ HTTP/1.1" 500 134303
+[2023-05-23 17:47:06,666][django.server.log_message():212] [ERROR] "GET /redoc/ HTTP/1.1" 500 134303
+[2023-05-23 17:47:40,110][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\utils\swagger.py changed, reloading.
+[2023-05-23 17:47:40,110][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\utils\swagger.py changed, reloading.
+[2023-05-23 17:47:40,987][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:47:40,987][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:49:28,869][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-23 17:49:28,869][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-23 17:49:29,865][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:49:29,865][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:49:32,637][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 17:49:32,637][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 17:49:32,677][django.server.log_message():212] [INFO] "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+[2023-05-23 17:49:32,677][django.server.log_message():212] [INFO] "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+[2023-05-23 17:49:32,680][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc-init.js HTTP/1.1" 200 2566
+[2023-05-23 17:49:32,680][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc-init.js HTTP/1.1" 200 2566
+[2023-05-23 17:49:32,689][django.server.log_message():212] [INFO] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+[2023-05-23 17:49:32,689][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc.min.js HTTP/1.1" 200 998563
+[2023-05-23 17:49:32,689][django.server.log_message():212] [INFO] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+[2023-05-23 17:49:32,689][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc.min.js HTTP/1.1" 200 998563
+[2023-05-23 17:49:33,033][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 526
+[2023-05-23 17:49:33,033][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc-logo.png HTTP/1.1" 200 4969
+[2023-05-23 17:49:33,033][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 526
+[2023-05-23 17:49:33,033][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc-logo.png HTTP/1.1" 200 4969
+[2023-05-23 17:50:47,414][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-23 17:50:47,414][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-23 17:50:48,339][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:50:48,339][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:51:33,619][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:51:33,619][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:51:48,838][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:51:48,838][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:51:52,272][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 17:51:52,272][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 17:51:53,016][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 65632
+[2023-05-23 17:51:53,016][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 65632
+[2023-05-23 17:53:15,250][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\utils\swagger.py changed, reloading.
+[2023-05-23 17:53:15,250][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\utils\swagger.py changed, reloading.
+[2023-05-23 17:53:16,251][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 17:53:16,251][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:16:08,716][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\utils\exception.py changed, reloading.
+[2023-05-23 18:16:08,716][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\utils\exception.py changed, reloading.
+[2023-05-23 18:16:09,767][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:16:09,767][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:21:50,960][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 18:21:50,960][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 18:21:50,994][django.server.log_message():212] [INFO] "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+[2023-05-23 18:21:50,994][django.server.log_message():212] [INFO] "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+[2023-05-23 18:21:51,003][django.server.log_message():212] [INFO] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+[2023-05-23 18:21:51,003][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc-init.js HTTP/1.1" 304 0
+[2023-05-23 18:21:51,003][django.server.log_message():212] [INFO] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+[2023-05-23 18:21:51,003][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc-init.js HTTP/1.1" 304 0
+[2023-05-23 18:21:51,004][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc.min.js HTTP/1.1" 304 0
+[2023-05-23 18:21:51,004][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc.min.js HTTP/1.1" 304 0
+[2023-05-23 18:21:51,454][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 65632
+[2023-05-23 18:21:51,454][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 65632
+[2023-05-23 18:21:51,569][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc-logo.png HTTP/1.1" 304 0
+[2023-05-23 18:21:51,569][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc-logo.png HTTP/1.1" 304 0
+[2023-05-23 18:28:47,316][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\settings.py changed, reloading.
+[2023-05-23 18:28:47,316][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\settings.py changed, reloading.
+[2023-05-23 18:28:48,297][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:28:48,297][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:28:50,903][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 18:28:50,903][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 18:28:51,478][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 66084
+[2023-05-23 18:28:51,478][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 66084
+[2023-05-23 18:32:33,760][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-23 18:32:33,760][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-23 18:32:34,357][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:32:34,357][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:36:32,146][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:36:32,146][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:36:52,434][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:36:52,434][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:36:59,083][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 18:36:59,083][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 18:36:59,101][django.server.log_message():212] [INFO] "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+[2023-05-23 18:36:59,101][django.server.log_message():212] [INFO] "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+[2023-05-23 18:36:59,106][django.server.log_message():212] [INFO] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+[2023-05-23 18:36:59,106][django.server.log_message():212] [INFO] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+[2023-05-23 18:36:59,110][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc-init.js HTTP/1.1" 304 0
+[2023-05-23 18:36:59,110][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc.min.js HTTP/1.1" 304 0
+[2023-05-23 18:36:59,110][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc-init.js HTTP/1.1" 304 0
+[2023-05-23 18:36:59,110][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc.min.js HTTP/1.1" 304 0
+[2023-05-23 18:36:59,619][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 67679
+[2023-05-23 18:36:59,619][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 67679
+[2023-05-23 18:36:59,725][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc-logo.png HTTP/1.1" 304 0
+[2023-05-23 18:36:59,725][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc-logo.png HTTP/1.1" 304 0
+[2023-05-23 18:38:27,439][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-23 18:38:27,439][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-23 18:38:28,487][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:38:28,487][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:38:33,249][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 18:38:33,249][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 18:38:33,784][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 67668
+[2023-05-23 18:38:33,784][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 67668
+[2023-05-23 18:46:01,634][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-23 18:46:01,634][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-23 18:46:02,578][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:46:02,578][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-23 18:46:07,030][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 18:46:07,030][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 18:46:07,544][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 69343
+[2023-05-23 18:46:07,544][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 69343
+[2023-05-23 18:47:40,289][django.request.log_response():241] [WARNING] Not Found: /
+[2023-05-23 18:47:40,289][django.request.log_response():241] [WARNING] Not Found: /
+[2023-05-23 18:47:40,290][django.server.log_message():212] [WARNING] "GET / HTTP/1.1" 404 3852
+[2023-05-23 18:47:40,290][django.server.log_message():212] [WARNING] "GET / HTTP/1.1" 404 3852
+[2023-05-23 18:47:44,121][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 18:47:44,121][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-23 18:47:44,639][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 69343
+[2023-05-23 18:47:44,639][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 69343
+[2023-05-23 18:51:34,930][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6354
+[2023-05-23 18:51:34,930][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6354
+[2023-05-24 10:08:28,305][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:08:28,305][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:08:32,499][django.request.log_response():241] [WARNING] Not Found: /
+[2023-05-24 10:08:32,499][django.request.log_response():241] [WARNING] Not Found: /
+[2023-05-24 10:08:32,500][django.server.log_message():212] [WARNING] "GET / HTTP/1.1" 404 3851
+[2023-05-24 10:08:32,500][django.server.log_message():212] [WARNING] "GET / HTTP/1.1" 404 3851
+[2023-05-24 10:08:33,155][django.request.log_response():241] [WARNING] Not Found: /favicon.ico
+[2023-05-24 10:08:33,155][django.request.log_response():241] [WARNING] Not Found: /favicon.ico
+[2023-05-24 10:08:33,155][django.server.log_message():212] [WARNING] "GET /favicon.ico HTTP/1.1" 404 3902
+[2023-05-24 10:08:33,155][django.server.log_message():212] [WARNING] "GET /favicon.ico HTTP/1.1" 404 3902
+[2023-05-24 10:08:39,631][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-24 10:08:39,631][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-24 10:08:39,714][django.server.log_message():212] [INFO] "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+[2023-05-24 10:08:39,714][django.server.log_message():212] [INFO] "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+[2023-05-24 10:08:39,727][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc-init.js HTTP/1.1" 200 2566
+[2023-05-24 10:08:39,727][django.server.log_message():212] [INFO] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+[2023-05-24 10:08:39,727][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc-init.js HTTP/1.1" 200 2566
+[2023-05-24 10:08:39,727][django.server.log_message():212] [INFO] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+[2023-05-24 10:08:39,754][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc.min.js HTTP/1.1" 200 998563
+[2023-05-24 10:08:39,754][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc.min.js HTTP/1.1" 200 998563
+[2023-05-24 10:08:39,973][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc-logo.png HTTP/1.1" 200 4969
+[2023-05-24 10:08:39,973][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc-logo.png HTTP/1.1" 200 4969
+[2023-05-24 10:08:40,050][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 69342
+[2023-05-24 10:08:40,050][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 69342
+[2023-05-24 10:12:29,444][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-24 10:12:29,444][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-24 10:12:30,432][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:12:30,432][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:18:15,775][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6206
+[2023-05-24 10:18:15,775][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6206
+[2023-05-24 10:18:31,132][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-24 10:18:31,132][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-24 10:18:32,108][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:18:32,108][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:18:38,763][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 3922
+[2023-05-24 10:18:38,763][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 3922
+[2023-05-24 10:18:54,057][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-24 10:18:54,057][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-24 10:18:54,915][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:18:54,915][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:18:57,598][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6014
+[2023-05-24 10:18:57,598][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6014
+[2023-05-24 10:19:47,177][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-24 10:19:47,177][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-24 10:19:48,128][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:19:48,128][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:19:59,430][django.request.log_response():241] [WARNING] Not Found: /png;base64,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
+[2023-05-24 10:19:59,430][django.request.log_response():241] [WARNING] Not Found: /png;base64,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
+[2023-05-24 10:19:59,434][django.server.log_message():212] [WARNING] "GET /png;base64,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 HTTP/1.1" 404 21584
+[2023-05-24 10:19:59,434][django.server.log_message():212] [WARNING] "GET /png;base64,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 HTTP/1.1" 404 21584
+[2023-05-24 10:19:59,637][django.request.log_response():241] [WARNING] Not Found: /favicon.ico
+[2023-05-24 10:19:59,637][django.request.log_response():241] [WARNING] Not Found: /favicon.ico
+[2023-05-24 10:19:59,637][django.server.log_message():212] [WARNING] "GET /favicon.ico HTTP/1.1" 404 3902
+[2023-05-24 10:19:59,637][django.server.log_message():212] [WARNING] "GET /favicon.ico HTTP/1.1" 404 3902
+[2023-05-24 10:22:22,471][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 5530
+[2023-05-24 10:22:22,471][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 5530
+[2023-05-24 10:23:10,823][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 86
+[2023-05-24 10:23:10,823][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 86
+[2023-05-24 10:23:24,940][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 86
+[2023-05-24 10:23:24,940][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 86
+[2023-05-24 10:23:33,147][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 86
+[2023-05-24 10:23:33,147][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 86
+[2023-05-24 10:25:14,380][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 86
+[2023-05-24 10:25:14,380][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 86
+[2023-05-24 10:26:27,393][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:26:27,393][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:26:28,349][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:26:28,349][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:26:35,567][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:26:35,567][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:26:36,477][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:26:36,477][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:26:38,735][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 113
+[2023-05-24 10:26:38,735][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 113
+[2023-05-24 10:26:46,732][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 113
+[2023-05-24 10:26:46,732][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 113
+[2023-05-24 10:26:52,377][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6382
+[2023-05-24 10:26:52,377][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6382
+[2023-05-24 10:27:02,550][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 113
+[2023-05-24 10:27:02,550][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 113
+[2023-05-24 10:28:31,366][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:28:31,366][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:28:32,247][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:28:32,247][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:28:39,440][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:28:39,440][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:28:40,325][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:28:40,325][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:28:49,688][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-24 10:28:49,688][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-24 10:28:50,647][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:28:50,647][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:29:07,837][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 54
+[2023-05-24 10:29:07,837][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 54
+[2023-05-24 10:31:02,500][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-24 10:31:02,500][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-24 10:31:03,054][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 69342
+[2023-05-24 10:31:03,054][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 69342
+[2023-05-24 10:31:03,524][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-24 10:31:03,524][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-24 10:31:04,469][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:31:04,469][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:31:41,785][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-24 10:31:41,785][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-24 10:31:42,199][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 70170
+[2023-05-24 10:31:42,199][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 70170
+[2023-05-24 10:35:45,313][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:35:45,313][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:35:46,233][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:35:46,233][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:36:27,417][django.server.log_message():212] [INFO] "POST /api/app/sendsms/?mobile=19835676714&smstype=register HTTP/1.1" 200 67
+[2023-05-24 10:36:27,417][django.server.log_message():212] [INFO] "POST /api/app/sendsms/?mobile=19835676714&smstype=register HTTP/1.1" 200 67
+[2023-05-24 10:37:20,062][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 67
+[2023-05-24 10:37:20,062][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 67
+[2023-05-24 10:38:08,094][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:38:08,094][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:38:09,054][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:38:09,054][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:38:24,718][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:38:24,718][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:38:25,612][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:38:25,612][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:38:28,000][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 10:38:28,000][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 10:38:38,736][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 439, in post
+    Users.objects.create(username=mobile, password=make_password(password), mobile=mobile, is_staff=False,
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Users() got unexpected keyword arguments: 'viptype'
+
+[2023-05-24 10:38:38,744][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 85
+[2023-05-24 10:38:38,744][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 85
+[2023-05-24 10:39:53,984][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\models.py changed, reloading.
+[2023-05-24 10:39:53,984][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\models.py changed, reloading.
+[2023-05-24 10:39:54,942][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:39:54,942][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:40:44,468][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 439, in post
+    Users.objects.create(username=mobile, password=make_password(password), mobile=mobile, is_staff=False,
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Users() got unexpected keyword arguments: 'viptype'
+
+[2023-05-24 10:40:44,477][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 85
+[2023-05-24 10:40:44,477][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 85
+[2023-05-24 10:40:52,232][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 10:40:52,232][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 10:40:57,853][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 439, in post
+    Users.objects.create(username=mobile, password=make_password(password), mobile=mobile, is_staff=False,
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Users() got unexpected keyword arguments: 'viptype'
+
+[2023-05-24 10:40:58,099][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 85
+[2023-05-24 10:40:58,099][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 85
+[2023-05-24 10:41:12,732][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\models.py changed, reloading.
+[2023-05-24 10:41:12,732][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\models.py changed, reloading.
+[2023-05-24 10:41:13,634][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:41:13,634][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:43:40,587][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\models.py changed, reloading.
+[2023-05-24 10:43:40,587][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\models.py changed, reloading.
+[2023-05-24 10:43:41,472][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:43:41,472][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:43:57,091][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 84
+[2023-05-24 10:43:57,091][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 84
+[2023-05-24 10:46:24,615][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 62
+[2023-05-24 10:46:24,615][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 62
+[2023-05-24 10:46:56,146][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 62
+[2023-05-24 10:46:56,146][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 62
+[2023-05-24 10:47:11,561][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 62
+[2023-05-24 10:47:11,561][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 62
+[2023-05-24 10:48:53,606][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:48:53,606][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:48:54,555][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:48:54,555][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:51:59,412][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:51:59,412][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:52:00,362][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:52:00,362][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:52:10,629][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 62
+[2023-05-24 10:52:10,629][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 62
+[2023-05-24 10:53:19,350][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:53:19,350][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:53:20,226][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:53:20,226][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:53:21,894][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 10:53:21,894][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 10:54:09,363][django.server.log_message():212] [INFO] "POST /api/app/restpassword/?mobile=19835676714&code&password HTTP/1.1" 200 55
+[2023-05-24 10:54:09,363][django.server.log_message():212] [INFO] "POST /api/app/restpassword/?mobile=19835676714&code&password HTTP/1.1" 200 55
+[2023-05-24 10:54:22,207][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 48
+[2023-05-24 10:54:22,207][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 48
+[2023-05-24 10:54:30,799][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 48
+[2023-05-24 10:54:30,799][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 48
+[2023-05-24 10:55:14,775][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:55:14,775][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 10:55:15,648][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:55:15,648][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 10:55:20,959][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 79
+[2023-05-24 10:55:20,959][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 79
+[2023-05-24 11:08:10,701][django.server.log_message():212] [INFO] "POST /api/app/setnickname/ HTTP/1.1" 200 64
+[2023-05-24 11:08:10,701][django.server.log_message():212] [INFO] "POST /api/app/setnickname/ HTTP/1.1" 200 64
+[2023-05-24 11:16:07,210][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 11:16:07,210][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 11:16:10,380][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:16:10,380][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:19:26,869][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 5914
+[2023-05-24 11:19:26,869][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 5914
+[2023-05-24 11:20:20,294][django.server.log_message():212] [INFO] "GET /api/token/ HTTP/1.1" 200 66
+[2023-05-24 11:20:20,294][django.server.log_message():212] [INFO] "GET /api/token/ HTTP/1.1" 200 66
+[2023-05-24 11:20:24,419][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'captchaKey'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework_simplejwt\views.py", line 43, in post
+    serializer.is_valid(raise_exception=True)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\serializers.py", line 426, in run_validation
+    value = self.to_internal_value(data)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\serializers.py", line 485, in to_internal_value
+    validated_value = validate_method(validated_value)
+  File "E:\web3\DjangoCryptoBackend\mysystem\views\login.py", line 66, in validate_captcha
+    self.image_code = CaptchaStore.objects.filter(id=self.initial_data['captchaKey']).first()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'captchaKey'
+
+[2023-05-24 11:20:24,427][django.server.log_message():212] [INFO] "POST /api/token/ HTTP/1.1" 200 46
+[2023-05-24 11:20:24,427][django.server.log_message():212] [INFO] "POST /api/token/ HTTP/1.1" 200 46
+[2023-05-24 11:24:40,369][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-24 11:24:40,369][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-24 11:24:41,304][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:24:41,304][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:26:33,637][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\users\views.py changed, reloading.
+[2023-05-24 11:26:33,637][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\users\views.py changed, reloading.
+[2023-05-24 11:26:34,543][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:26:34,543][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:27:28,447][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-24 11:27:28,447][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-24 11:27:29,054][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 70149
+[2023-05-24 11:27:29,054][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 70149
+[2023-05-24 11:27:29,220][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-24 11:27:29,220][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\application\urls.py changed, reloading.
+[2023-05-24 11:27:30,172][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:27:30,172][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:27:33,776][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-24 11:27:33,776][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-24 11:27:34,096][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 70578
+[2023-05-24 11:27:34,096][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 70578
+[2023-05-24 11:29:28,513][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 103, in post
+    username = get_parameter_dic(request)['mobile']
+KeyError: 'mobile'
+
+[2023-05-24 11:29:28,521][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 42
+[2023-05-24 11:29:28,521][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 42
+[2023-05-24 11:31:43,328][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 103, in post
+    username = get_parameter_dic(request)['mobile']
+KeyError: 'mobile'
+
+[2023-05-24 11:31:43,335][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 42
+[2023-05-24 11:31:43,335][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 42
+[2023-05-24 11:31:58,585][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 11:31:58,585][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 11:32:34,840][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 11:32:34,840][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 11:32:48,884][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 11:32:48,884][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 11:33:16,531][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 11:33:16,531][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 11:33:21,634][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 79
+[2023-05-24 11:33:21,634][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 79
+[2023-05-24 11:33:52,537][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 103, in post
+    username = get_parameter_dic(request)['mobile']
+KeyError: 'mobile'
+
+[2023-05-24 11:33:52,545][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 42
+[2023-05-24 11:33:52,545][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 42
+[2023-05-24 11:34:04,687][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 103, in post
+    username = get_parameter_dic(request)['mobile']
+KeyError: 'mobile'
+
+[2023-05-24 11:34:04,860][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 42
+[2023-05-24 11:34:04,860][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 42
+[2023-05-24 11:34:49,297][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 11:34:49,297][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 11:34:50,220][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:34:50,220][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:34:54,598][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 103, in post
+    username = get_parameter_dic(request)['mobile']
+KeyError: 'mobile'
+
+[2023-05-24 11:34:54,606][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 42
+[2023-05-24 11:34:54,606][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 42
+[2023-05-24 11:35:12,270][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 11:35:12,270][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 11:35:13,159][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:35:13,159][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:35:14,801][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 11:35:14,801][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 11:35:31,838][django.server.log_message():212] [INFO] "POST /api/app/setnickname/ HTTP/1.1" 200 64
+[2023-05-24 11:35:31,838][django.server.log_message():212] [INFO] "POST /api/app/setnickname/ HTTP/1.1" 200 64
+[2023-05-24 11:35:36,329][django.server.log_message():212] [INFO] "POST /api/app/setnickname/ HTTP/1.1" 200 64
+[2023-05-24 11:35:36,329][django.server.log_message():212] [INFO] "POST /api/app/setnickname/ HTTP/1.1" 200 64
+[2023-05-24 11:35:46,479][django.server.log_message():212] [INFO] "POST /api/app/setnickname/ HTTP/1.1" 200 64
+[2023-05-24 11:35:46,479][django.server.log_message():212] [INFO] "POST /api/app/setnickname/ HTTP/1.1" 200 64
+[2023-05-24 11:36:35,737][django.server.log_message():212] [INFO] "POST /api/app/setnickname/ HTTP/1.1" 200 64
+[2023-05-24 11:36:35,737][django.server.log_message():212] [INFO] "POST /api/app/setnickname/ HTTP/1.1" 200 64
+[2023-05-24 11:37:08,900][django.server.log_message():212] [INFO] "POST /api/app/setnickname/ HTTP/1.1" 200 79
+[2023-05-24 11:37:08,900][django.server.log_message():212] [INFO] "POST /api/app/setnickname/ HTTP/1.1" 200 79
+[2023-05-24 11:39:05,405][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\utils\imageupload.py changed, reloading.
+[2023-05-24 11:39:05,405][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\utils\imageupload.py changed, reloading.
+[2023-05-24 11:39:06,335][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:39:06,335][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:39:32,797][django.server.log_message():212] [INFO] "POST /api/app/uploadimage/ HTTP/1.1" 200 64
+[2023-05-24 11:39:32,797][django.server.log_message():212] [INFO] "POST /api/app/uploadimage/ HTTP/1.1" 200 64
+[2023-05-24 11:41:38,354][django.server.log_message():212] [INFO] "POST /api/app/uploadimage/ HTTP/1.1" 200 86
+[2023-05-24 11:41:38,354][django.server.log_message():212] [INFO] "POST /api/app/uploadimage/ HTTP/1.1" 200 86
+[2023-05-24 11:43:52,696][django.server.log_message():212] [INFO] "POST /api/app/uploadimage/ HTTP/1.1" 200 86
+[2023-05-24 11:43:52,696][django.server.log_message():212] [INFO] "POST /api/app/uploadimage/ HTTP/1.1" 200 86
+[2023-05-24 11:44:02,056][django.server.log_message():212] [INFO] "POST /api/app/uploadimage/ HTTP/1.1" 200 87
+[2023-05-24 11:44:02,056][django.server.log_message():212] [INFO] "POST /api/app/uploadimage/ HTTP/1.1" 200 87
+[2023-05-24 11:45:25,386][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\utils\imageupload.py changed, reloading.
+[2023-05-24 11:45:25,386][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\utils\imageupload.py changed, reloading.
+[2023-05-24 11:45:26,341][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:45:26,341][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 11:46:14,253][django.server.log_message():212] [INFO] "POST /api/app/uploadimage/ HTTP/1.1" 200 60
+[2023-05-24 11:46:14,253][django.server.log_message():212] [INFO] "POST /api/app/uploadimage/ HTTP/1.1" 200 60
+[2023-05-24 11:46:22,577][django.server.log_message():212] [INFO] "POST /api/app/uploadimage/ HTTP/1.1" 200 160
+[2023-05-24 11:46:22,577][django.server.log_message():212] [INFO] "POST /api/app/uploadimage/ HTTP/1.1" 200 160
+[2023-05-24 11:52:11,951][django.server.log_message():212] [INFO] "OPTIONS /api/captcha/ HTTP/1.1" 200 0
+[2023-05-24 11:52:11,951][django.server.log_message():212] [INFO] "OPTIONS /api/captcha/ HTTP/1.1" 200 0
+[2023-05-24 11:52:12,219][django.server.handle_error():81] [INFO] - Broken pipe from ('127.0.0.1', 53930)
+[2023-05-24 11:52:12,219][django.server.handle_error():81] [INFO] - Broken pipe from ('127.0.0.1', 53930)
+[2023-05-24 11:52:12,505][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 7570
+[2023-05-24 11:52:12,505][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 7570
+[2023-05-24 15:20:45,016][django.server.log_message():212] [INFO] "OPTIONS /api/captcha/ HTTP/1.1" 200 0
+[2023-05-24 15:20:45,016][django.server.log_message():212] [INFO] "OPTIONS /api/captcha/ HTTP/1.1" 200 0
+[2023-05-24 15:20:45,028][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 5631
+[2023-05-24 15:20:45,028][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 5631
+[2023-05-24 15:26:09,862][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6455
+[2023-05-24 15:26:09,862][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6455
+[2023-05-24 15:54:28,959][django.server.log_message():212] [INFO] "OPTIONS /api/token/ HTTP/1.1" 200 0
+[2023-05-24 15:54:28,959][django.server.log_message():212] [INFO] "OPTIONS /api/token/ HTTP/1.1" 200 0
+[2023-05-24 15:54:28,985][django.server.log_message():212] [INFO] "POST /api/token/ HTTP/1.1" 200 49
+[2023-05-24 15:54:28,985][django.server.log_message():212] [INFO] "POST /api/token/ HTTP/1.1" 200 49
+[2023-05-24 15:54:28,997][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 5767
+[2023-05-24 15:54:28,997][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 5767
+[2023-05-24 15:54:31,498][django.server.log_message():212] [INFO] "POST /api/token/ HTTP/1.1" 200 55
+[2023-05-24 15:54:31,498][django.server.log_message():212] [INFO] "POST /api/token/ HTTP/1.1" 200 55
+[2023-05-24 15:54:31,511][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6035
+[2023-05-24 15:54:31,511][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6035
+[2023-05-24 15:54:41,219][django.server.log_message():212] [INFO] "POST /api/token/ HTTP/1.1" 200 55
+[2023-05-24 15:54:41,219][django.server.log_message():212] [INFO] "POST /api/token/ HTTP/1.1" 200 55
+[2023-05-24 15:54:41,231][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 5719
+[2023-05-24 15:54:41,231][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 5719
+[2023-05-24 15:54:44,308][django.server.log_message():212] [INFO] "POST /api/token/ HTTP/1.1" 200 56
+[2023-05-24 15:54:44,308][django.server.log_message():212] [INFO] "POST /api/token/ HTTP/1.1" 200 56
+[2023-05-24 15:54:44,323][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6295
+[2023-05-24 15:54:44,323][django.server.log_message():212] [INFO] "GET /api/captcha/ HTTP/1.1" 200 6295
+[2023-05-24 16:06:50,652][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:06:50,652][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:12:25,347][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 60
+[2023-05-24 16:12:25,347][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 60
+[2023-05-24 16:12:37,368][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:12:37,368][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:18:12,225][django.server.log_message():212] [INFO] "OPTIONS /api/user/login/ HTTP/1.1" 200 0
+[2023-05-24 16:18:12,225][django.server.log_message():212] [INFO] "OPTIONS /api/user/login/ HTTP/1.1" 200 0
+[2023-05-24 16:18:12,289][django.request.log_response():241] [WARNING] Not Found: /api/user/login/
+[2023-05-24 16:18:12,289][django.request.log_response():241] [WARNING] Not Found: /api/user/login/
+[2023-05-24 16:18:12,290][django.server.log_message():212] [WARNING] "POST /api/user/login/ HTTP/1.1" 404 4394
+[2023-05-24 16:18:12,290][django.server.log_message():212] [WARNING] "POST /api/user/login/ HTTP/1.1" 404 4394
+[2023-05-24 16:23:13,768][django.server.log_message():212] [INFO] "OPTIONS /api/app/login/ HTTP/1.1" 200 0
+[2023-05-24 16:23:13,768][django.server.log_message():212] [INFO] "OPTIONS /api/app/login/ HTTP/1.1" 200 0
+[2023-05-24 16:23:14,044][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:23:14,044][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:23:49,641][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:23:49,641][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:23:49,748][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 16:23:49,748][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\apps\logins\views.py changed, reloading.
+[2023-05-24 16:23:50,754][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 16:23:50,754][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-24 16:23:56,915][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:23:56,915][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:25:34,057][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-24 16:25:34,057][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-24 16:25:37,058][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:25:37,058][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:25:50,494][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-24 16:25:50,494][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-24 16:25:55,331][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:25:55,331][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:29:58,763][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:29:58,763][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:30:28,964][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:30:28,964][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:31:12,844][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:31:12,844][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:31:45,157][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:31:45,157][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 16:45:55,697][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 16:45:55,697][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 16:48:36,960][django.server.log_message():212] [INFO] "OPTIONS /api/app/sendsms/ HTTP/1.1" 200 0
+[2023-05-24 16:48:36,960][django.server.log_message():212] [INFO] "OPTIONS /api/app/sendsms/ HTTP/1.1" 200 0
+[2023-05-24 16:48:36,971][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 16:48:36,971][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 16:48:50,608][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 16:48:50,608][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 16:51:58,300][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 16:51:58,300][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 16:52:10,285][django.server.log_message():212] [INFO] "OPTIONS /api/app/restpassword HTTP/1.1" 200 0
+[2023-05-24 16:52:10,285][django.server.log_message():212] [INFO] "OPTIONS /api/app/restpassword HTTP/1.1" 200 0
+[2023-05-24 16:52:10,331][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:52:10,331][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:52:10,333][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:52:10,333][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:54:44,819][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 16:54:44,819][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 16:54:56,790][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:54:56,790][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:54:56,792][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:54:56,792][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:55:24,088][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 79
+[2023-05-24 16:55:24,088][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 79
+[2023-05-24 16:56:42,505][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 16:56:42,505][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 16:56:48,334][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:56:48,334][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:56:48,336][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:56:48,336][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:57:35,058][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 16:57:35,058][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 16:57:46,672][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 16:57:46,672][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 16:57:52,640][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:57:52,640][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:57:52,642][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:57:52,642][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 17:00:50,981][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:00:50,981][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:01:08,654][django.server.log_message():212] [INFO] "OPTIONS /api/app/restpassword/ HTTP/1.1" 200 0
+[2023-05-24 17:01:08,654][django.server.log_message():212] [INFO] "OPTIONS /api/app/restpassword/ HTTP/1.1" 200 0
+[2023-05-24 17:01:08,897][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 79
+[2023-05-24 17:01:08,897][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 79
+[2023-05-24 17:04:27,768][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:04:27,768][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:04:34,444][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 79
+[2023-05-24 17:04:34,444][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 79
+[2023-05-24 17:05:08,546][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-24 17:05:08,546][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-24 17:05:13,698][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 17:05:13,698][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 17:21:33,413][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 62
+[2023-05-24 17:21:33,413][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 62
+[2023-05-24 17:22:00,125][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:22:00,125][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:23:12,641][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:23:12,641][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:23:18,048][django.server.log_message():212] [INFO] "OPTIONS /api/app/register/ HTTP/1.1" 200 0
+[2023-05-24 17:23:18,048][django.server.log_message():212] [INFO] "OPTIONS /api/app/register/ HTTP/1.1" 200 0
+[2023-05-24 17:23:18,063][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 131
+[2023-05-24 17:23:18,063][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 131
+[2023-05-24 17:24:05,697][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:24:05,697][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:26:59,621][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:26:59,621][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:27:08,649][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 131
+[2023-05-24 17:27:08,649][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 131
+[2023-05-24 17:27:19,819][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 131
+[2023-05-24 17:27:19,819][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 131
+[2023-05-24 17:28:00,804][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 131
+[2023-05-24 17:28:00,804][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 131
+[2023-05-24 17:29:03,833][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 60
+[2023-05-24 17:29:03,833][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 60
+[2023-05-24 17:29:21,499][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 60
+[2023-05-24 17:29:21,499][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 60
+[2023-05-24 17:29:33,064][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 60
+[2023-05-24 17:29:33,064][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 60
+[2023-05-24 17:30:10,938][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 84
+[2023-05-24 17:30:10,938][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 84
+[2023-05-24 17:31:28,006][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:31:28,006][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:31:35,952][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 60
+[2023-05-24 17:31:35,952][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 60
+[2023-05-24 17:32:33,388][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 62
+[2023-05-24 17:32:33,388][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 62
+[2023-05-24 17:32:46,433][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:32:46,433][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:32:52,499][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 17:32:52,499][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 17:33:00,503][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 48
+[2023-05-24 17:33:00,503][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 48
+[2023-05-24 17:33:07,487][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 17:33:07,487][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 17:33:17,185][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 17:33:17,185][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 17:37:51,301][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 65
+[2023-05-24 17:37:51,301][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 65
+[2023-05-24 17:38:29,211][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 65
+[2023-05-24 17:38:29,211][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 65
+[2023-05-24 17:38:32,993][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:38:32,993][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:38:35,133][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 17:38:35,133][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 17:39:18,244][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 17:39:18,244][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 17:39:29,245][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 17:39:29,245][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-24 17:41:18,479][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:41:18,479][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:42:18,849][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:42:18,849][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:42:24,633][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 84
+[2023-05-24 17:42:24,633][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 84
+[2023-05-24 17:43:07,256][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:43:07,256][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-24 17:43:12,781][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 60
+[2023-05-24 17:43:12,781][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 60
+[2023-05-24 17:43:32,000][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 84
+[2023-05-24 17:43:32,000][django.server.log_message():212] [INFO] "POST /api/app/register/ HTTP/1.1" 200 84
+[2023-05-24 17:43:53,683][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 17:43:53,683][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 17:50:26,734][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-24 17:50:26,734][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 07:33:22,939][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-25 07:33:22,939][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-25 07:35:17,627][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-25 07:35:17,627][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-25 07:38:31,445][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-25 07:38:31,445][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-25 07:38:49,147][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-25 07:38:49,147][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 66
+[2023-05-25 07:38:54,227][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 65
+[2023-05-25 07:38:54,227][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 65
+[2023-05-25 07:39:58,046][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-25 07:39:58,046][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 83
+[2023-05-25 07:40:06,749][django.server.log_message():212] [INFO] "OPTIONS /api/app/restpassword/ HTTP/1.1" 200 0
+[2023-05-25 07:40:06,749][django.server.log_message():212] [INFO] "OPTIONS /api/app/restpassword/ HTTP/1.1" 200 0
+[2023-05-25 07:40:06,982][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 79
+[2023-05-25 07:40:06,982][django.server.log_message():212] [INFO] "POST /api/app/restpassword/ HTTP/1.1" 200 79
+[2023-05-25 07:40:21,425][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 65
+[2023-05-25 07:40:21,425][django.server.log_message():212] [INFO] "POST /api/app/sendsms/ HTTP/1.1" 200 65
+[2023-05-25 07:41:07,374][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-25 07:41:07,374][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-25 07:41:11,059][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 07:41:11,059][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:30:35,309][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-25 08:30:35,309][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-25 08:30:39,087][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-25 08:30:39,087][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-25 08:30:43,531][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:30:43,531][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:31:01,531][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:31:01,531][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:34:03,176][django.request.log_response():241] [WARNING] Not Found: /
+[2023-05-25 08:34:03,176][django.request.log_response():241] [WARNING] Not Found: /
+[2023-05-25 08:34:03,177][django.server.log_message():212] [WARNING] "GET / HTTP/1.1" 404 4330
+[2023-05-25 08:34:03,177][django.server.log_message():212] [WARNING] "GET / HTTP/1.1" 404 4330
+[2023-05-25 08:34:06,154][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-25 08:34:06,154][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-25 08:34:06,167][django.server.log_message():212] [INFO] "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+[2023-05-25 08:34:06,167][django.server.log_message():212] [INFO] "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+[2023-05-25 08:34:06,174][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc-init.js HTTP/1.1" 304 0
+[2023-05-25 08:34:06,174][django.server.log_message():212] [INFO] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+[2023-05-25 08:34:06,174][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc.min.js HTTP/1.1" 304 0
+[2023-05-25 08:34:06,174][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc-init.js HTTP/1.1" 304 0
+[2023-05-25 08:34:06,174][django.server.log_message():212] [INFO] "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+[2023-05-25 08:34:06,174][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc.min.js HTTP/1.1" 304 0
+[2023-05-25 08:34:06,501][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc-logo.png HTTP/1.1" 304 0
+[2023-05-25 08:34:06,501][django.server.log_message():212] [INFO] "GET /static/drf-yasg/redoc/redoc-logo.png HTTP/1.1" 304 0
+[2023-05-25 08:34:06,579][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 70578
+[2023-05-25 08:34:06,579][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 70578
+[2023-05-25 08:37:49,392][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-25 08:37:49,392][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-25 08:37:49,679][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-25 08:37:49,679][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-25 08:37:53,246][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-25 08:37:53,246][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-25 08:37:58,255][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-25 08:37:58,255][django.server.log_message():212] [INFO] "GET /redoc/ HTTP/1.1" 200 942
+[2023-05-25 08:37:58,556][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 70484
+[2023-05-25 08:37:58,556][django.server.log_message():212] [INFO] "GET /redoc/?format=openapi HTTP/1.1" 200 70484
+[2023-05-25 08:40:14,710][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:40:14,710][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:40:51,937][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-25 08:40:51,937][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 52
+[2023-05-25 08:40:57,605][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:40:57,605][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:41:26,243][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-25 08:41:26,243][django.utils.autoreload.trigger_reload():266] [INFO] E:\web3\DjangoCryptoBackend\mysystem\views\login.py changed, reloading.
+[2023-05-25 08:41:27,272][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-25 08:41:27,272][django.utils.autoreload.run_with_reloader():668] [INFO] Watching for file changes with StatReloader
+[2023-05-25 08:44:37,616][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:44:37,616][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:45:19,292][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:45:19,292][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:58:32,206][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670
+[2023-05-25 08:58:32,206][django.server.log_message():212] [INFO] "POST /api/app/login/ HTTP/1.1" 200 670

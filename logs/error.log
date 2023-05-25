@@ -1,0 +1,392 @@
+[2023-05-23 17:45:01,222][django.request.log_response():241] [ERROR] Internal Server Error: /redoc/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'rest_framework'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 78, in render
+    self.set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 171, in set_context
+    super(ReDocRenderer, self).set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 86, in set_context
+    renderer_context.update(self.get_auth_urls())
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 109, in get_auth_urls
+    'LOGIN_URL': self.resolve_url(swagger_settings.LOGIN_URL),
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 105, in resolve_url
+    return resolve_url(to, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'rest_framework' is not a registered namespace
+[2023-05-23 17:45:01,222][django.request.log_response():241] [ERROR] Internal Server Error: /redoc/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'rest_framework'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 78, in render
+    self.set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 171, in set_context
+    super(ReDocRenderer, self).set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 86, in set_context
+    renderer_context.update(self.get_auth_urls())
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 109, in get_auth_urls
+    'LOGIN_URL': self.resolve_url(swagger_settings.LOGIN_URL),
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 105, in resolve_url
+    return resolve_url(to, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'rest_framework' is not a registered namespace
+[2023-05-23 17:45:01,226][django.server.log_message():212] [ERROR] "GET /redoc/ HTTP/1.1" 500 134145
+[2023-05-23 17:45:01,226][django.server.log_message():212] [ERROR] "GET /redoc/ HTTP/1.1" 500 134145
+[2023-05-23 17:46:25,277][django.request.log_response():241] [ERROR] Internal Server Error: /redoc/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'rest_framework'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 78, in render
+    self.set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 171, in set_context
+    super(ReDocRenderer, self).set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 86, in set_context
+    renderer_context.update(self.get_auth_urls())
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 109, in get_auth_urls
+    'LOGIN_URL': self.resolve_url(swagger_settings.LOGIN_URL),
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 105, in resolve_url
+    return resolve_url(to, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'rest_framework' is not a registered namespace
+[2023-05-23 17:46:25,277][django.request.log_response():241] [ERROR] Internal Server Error: /redoc/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'rest_framework'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 78, in render
+    self.set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 171, in set_context
+    super(ReDocRenderer, self).set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 86, in set_context
+    renderer_context.update(self.get_auth_urls())
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 109, in get_auth_urls
+    'LOGIN_URL': self.resolve_url(swagger_settings.LOGIN_URL),
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 105, in resolve_url
+    return resolve_url(to, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'rest_framework' is not a registered namespace
+[2023-05-23 17:46:25,281][django.server.log_message():212] [ERROR] "GET /redoc/ HTTP/1.1" 500 134282
+[2023-05-23 17:46:25,281][django.server.log_message():212] [ERROR] "GET /redoc/ HTTP/1.1" 500 134282
+[2023-05-23 17:47:06,663][django.request.log_response():241] [ERROR] Internal Server Error: /redoc/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'rest_framework'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 78, in render
+    self.set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 171, in set_context
+    super(ReDocRenderer, self).set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 86, in set_context
+    renderer_context.update(self.get_auth_urls())
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 109, in get_auth_urls
+    'LOGIN_URL': self.resolve_url(swagger_settings.LOGIN_URL),
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 105, in resolve_url
+    return resolve_url(to, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'rest_framework' is not a registered namespace
+[2023-05-23 17:47:06,663][django.request.log_response():241] [ERROR] Internal Server Error: /redoc/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 71, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'rest_framework'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 78, in render
+    self.set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 171, in set_context
+    super(ReDocRenderer, self).set_context(renderer_context, swagger)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 86, in set_context
+    renderer_context.update(self.get_auth_urls())
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 109, in get_auth_urls
+    'LOGIN_URL': self.resolve_url(swagger_settings.LOGIN_URL),
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\drf_yasg\renderers.py", line 105, in resolve_url
+    return resolve_url(to, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\urls\base.py", line 82, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'rest_framework' is not a registered namespace
+[2023-05-23 17:47:06,666][django.server.log_message():212] [ERROR] "GET /redoc/ HTTP/1.1" 500 134303
+[2023-05-23 17:47:06,666][django.server.log_message():212] [ERROR] "GET /redoc/ HTTP/1.1" 500 134303
+[2023-05-24 10:38:38,736][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 439, in post
+    Users.objects.create(username=mobile, password=make_password(password), mobile=mobile, is_staff=False,
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Users() got unexpected keyword arguments: 'viptype'
+
+[2023-05-24 10:40:44,468][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 439, in post
+    Users.objects.create(username=mobile, password=make_password(password), mobile=mobile, is_staff=False,
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Users() got unexpected keyword arguments: 'viptype'
+
+[2023-05-24 10:40:57,853][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 439, in post
+    Users.objects.create(username=mobile, password=make_password(password), mobile=mobile, is_staff=False,
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Users() got unexpected keyword arguments: 'viptype'
+
+[2023-05-24 11:20:24,419][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\datastructures.py", line 84, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'captchaKey'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework_simplejwt\views.py", line 43, in post
+    serializer.is_valid(raise_exception=True)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\serializers.py", line 426, in run_validation
+    value = self.to_internal_value(data)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\serializers.py", line 485, in to_internal_value
+    validated_value = validate_method(validated_value)
+  File "E:\web3\DjangoCryptoBackend\mysystem\views\login.py", line 66, in validate_captcha
+    self.image_code = CaptchaStore.objects.filter(id=self.initial_data['captchaKey']).first()
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\datastructures.py", line 86, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'captchaKey'
+
+[2023-05-24 11:29:28,513][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 103, in post
+    username = get_parameter_dic(request)['mobile']
+KeyError: 'mobile'
+
+[2023-05-24 11:31:43,328][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 103, in post
+    username = get_parameter_dic(request)['mobile']
+KeyError: 'mobile'
+
+[2023-05-24 11:33:52,537][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 103, in post
+    username = get_parameter_dic(request)['mobile']
+KeyError: 'mobile'
+
+[2023-05-24 11:34:04,687][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 103, in post
+    username = get_parameter_dic(request)['mobile']
+KeyError: 'mobile'
+
+[2023-05-24 11:34:54,598][utils.exception.CustomExceptionHandler():92] [ERROR] Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "E:\web3\DjangoCryptoBackend\apps\logins\views.py", line 103, in post
+    username = get_parameter_dic(request)['mobile']
+KeyError: 'mobile'
+
+[2023-05-24 16:52:10,331][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:52:10,331][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:52:10,333][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:52:10,333][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:54:56,790][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:54:56,790][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:54:56,792][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:54:56,792][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:56:48,334][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:56:48,334][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:56:48,336][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:56:48,336][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:57:52,640][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:57:52,640][django.request.log_response():241] [ERROR] Internal Server Error: /api/app/restpassword
+Traceback (most recent call last):
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 108, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "C:\Users\Administrator\.conda\envs\DjangoCryptoBackend\lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to localhost:8000/api/app/restpassword/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+[2023-05-24 16:57:52,642][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
+[2023-05-24 16:57:52,642][django.server.log_message():212] [ERROR] "POST /api/app/restpassword HTTP/1.1" 500 90356
